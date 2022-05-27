@@ -1,0 +1,19 @@
+id: 1a1b57acbdd34ff39a513c498879686d
+annotation_type: index
+revision: '00001'
+annotations:
+  e22dd6cbb569459fa46593224f981c90:
+    base: f7091.txt
+    span:
+      start: 0
+      end: 345
+  237afed5489942bdbd4a9381c2986a15:
+    base: f941A.txt
+    span:
+      start: 0
+      end: 266
+  452a3d51a132460e9ba3f5faf112e18e:
+    base: fAF2C.txt
+    span:
+      start: 0
+      end: 117

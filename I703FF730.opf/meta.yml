@@ -1,0 +1,31 @@
+id: I703FF730
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T16:58:27.368286'
+last_modified: '2022-05-27T16:58:27.368296'
+parser: null
+source_metadata:
+  title: 'MSV 1,00: Vinayavastūddāna'
+  language: bo
+  base:
+    fAF2C:
+      title: Title
+      base_file: fAF2C.txt
+      order: 1
+    f7091:
+      title: Introductory verses
+      base_file: f7091.txt
+      order: 2
+    f941A:
+      title: Piṇḍoddāna
+      base_file: f941A.txt
+      order: 3
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
